@@ -1,3 +1,15 @@
+#Classpath file
+*.classpath
+
+#Factorypath
+*.factorypath
+
+#Ignore STS settings
+.settings/
+
+#Ignore target
+target/
+
 # Compiled class file
 *.class
 
